@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+img{
+	object-fit:cover;
+	width:400px;
+	height:auto;
+}
+.card{
+	background-color:floralwhite;
+	height:100%;
+	width:200px;
+	padding-left:10px;
+}
+button{
+	padding:10px;
+	background-color:red;
+	color:white;
+	border-radius:10px;
+}
